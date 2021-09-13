@@ -1,0 +1,12 @@
+jupyterlab
+cython
+numpy
+matplotlib
+tqdm
+h5py
+python-dotenv
+torch
+poutyne
+scikit-learn
+tensorboard
+torchsummary
